@@ -1,11 +1,11 @@
-package com.ai.code.analysis;
+package research.code.analysis;
 
 import java.util.HashSet;
 import java.util.Set;
 
 import org.eclipse.jdt.core.dom.IMethodBinding;
 
-import com.ai.code.analysis.CallGraphic.Edge;
+import research.code.analysis.CallGraphic.Edge;
 
 public class CallGraphicNode {
 	final IMethodBinding method;

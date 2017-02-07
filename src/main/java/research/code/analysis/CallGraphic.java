@@ -1,4 +1,4 @@
-package com.ai.code.analysis;
+package research.code.analysis;
 
 import java.util.HashSet;
 import java.util.Set;

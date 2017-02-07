@@ -1,4 +1,4 @@
-package com.ai.code.analysis;
+package research.code.analysis;
 
 import java.io.File;
 import java.io.IOException;

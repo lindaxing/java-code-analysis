@@ -1,10 +1,10 @@
-package com.ai.code.analysis;
+package research.code.analysis;
 
 import java.util.List;
 
 import org.eclipse.jdt.core.dom.IMethodBinding;
 
-import com.ai.code.analysis.CallTree.TreeVisitor;
+import research.code.analysis.CallTree.TreeVisitor;
 
 public class RefCallTreeNode extends CallTreeNode {
 	
